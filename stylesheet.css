@@ -1,0 +1,15 @@
+html {
+	background: #717171;
+	font-family: Courier\ New;
+	font-size: 30px;
+}
+
+.search {
+	background: #b98c8e;
+	border: none;
+	font-size: 1.5em;
+	font-family =: Courier\ New;
+	color: #ebb2b4;
+	margin-left: 30%;
+	margin-top: 10%;
+}
