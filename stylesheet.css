@@ -1,15 +1,26 @@
 html {
-	background: #717171;
-	font-family: Courier\ New;
-	font-size: 30px;
+	background: #50605f; /*#717171;*/
+	font-family: Times New Roman;
+	font-size: 1.5em;
+	color: white;
 }
 
 .search {
 	background: #b98c8e;
 	border: none;
 	font-size: 1.5em;
-	font-family =: Courier\ New;
+	font-family: Times New Roman;
 	color: #ebb2b4;
 	margin-left: 30%;
 	margin-top: 10%;
+}
+
+.headers {
+	margin-left: 30%;
+}
+
+a {
+	color: white;
+	font-style: italic;
+	text-decoration: none;
 }
