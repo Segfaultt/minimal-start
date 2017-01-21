@@ -1,16 +1,16 @@
 html {
-	background: #50605f; /*#717171;*/
+	background: #1E1E1E;
 	font-family: Times New Roman;
 	font-size: 1.5em;
-	color: white;
+	color: #CCCCCC;
 }
 
 .search {
-	background: #b98c8e;
-	border: none;
+	color: #32DD72;
+	border: #555555 1px solid;
 	font-size: 1.5em;
 	font-family: Times New Roman;
-	color: #ebb2b4;
+	background: #333333;
 	margin-left: 30%;
 	margin-top: 10%;
 }
@@ -20,7 +20,7 @@ html {
 }
 
 a {
-	color: white;
+	color: #B8D962;/*white;*/
 	font-style: italic;
 	text-decoration: none;
 }
